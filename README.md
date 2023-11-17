@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://qewryy.tistory.com" target="_blank"><img src="https://img.shields.io/badge/any_text-you_like-blue?style=for-the-badge&logo=appveyor&logo=tistory&logoColor=000000"/></a>
+<a href="https://qewryy.tistory.com" target="_blank"><img src="https://img.shields.io/badge/qewryy-tistory?logo=appveyor&logoColor=000000"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qewryy&show_icons=true&theme=radical)
