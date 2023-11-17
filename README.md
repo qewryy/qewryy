@@ -1,11 +1,9 @@
 ### 👋 Hi there! 👋
-I'm a new backend developer using Spring.💻
-
+I'm a new backend developer using Spring.💻 
 I'm trying to study all the skills I need in the field.📖
 
 
-My hobby is playing games and working out.🎮🦾
-
+My hobby is playing games and working out.🎮🦾 
 My goal is to become a professional.🏁🧐
 
 <!--
