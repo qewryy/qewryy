@@ -1,9 +1,9 @@
-### 👋 Hi there! 👋
-I'm a new backend developer using Spring.
+### 👋 Hi there! 👋I'm a new backend developer using Spring.
 I'm trying to study all the skills I need in the field.
 
 My hobby is playing games and working out.🎮🦾
 My goal is to become a professional.🧐
+
 <!--
 **qewryy/qewryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
