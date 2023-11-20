@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/tistory-FE9A2E?style=flat-square&logo=Tistory&logoColor=white"/> <img src="https://img.shields.io/badge/qewryy4@gmail.com-81DAF5?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="https://qewryy.tistory.com/"><img src="https://img.shields.io/badge/tistory-FE9A2E?style=flat-square&logo=Tistory&logoColor=white"/></a> <img src="https://img.shields.io/badge/qewryy4@gmail.com-81DAF5?style=flat-square&logo=gmail&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qewryy&show_icons=true&theme=radical)
