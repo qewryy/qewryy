@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CEF6F5&height=150&section=header&text=qewryy&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
-
 ### 👋 Hi there! 👋
 I'm a new backend developer using Spring.💻
 
